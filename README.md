@@ -1,28 +1,28 @@
-# Título del proyecto
+# Title
 
 <p>
-    <img src="" alt="Imagen del proyecto">
+    <img src="" alt="project image">
 </p>
 
-## Vista en vivo
+## Live view
 
 <ul>
     <li>
-        <a target="_blank" href="">Vista en vivo</a>
+        <a target="_blank" href="">Live view</a>
     </li>
 </ul>
 
-## Descripción 📑
+## Description 📑
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
 
-## ¿Qué he aprendido en este proyecto? 🙇🏻
+## What have I learned in this project? 🙇🏻
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
 
-## Tecnologías 🛠
+## Technologies 🛠
 
-<!-- Iconos sacados de: https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-languages- -->
+<!-- Icons: https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-languages- -->
 
 <p>
     <a href="https://es.wikipedia.org/wiki/React">
@@ -30,38 +30,38 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
     </a>
 </p>
 
-## Capturas del proyecto
+## Screenshots
 
 <p>
-   <img src="" alt="Captura del proyecto">
-   <img src="" alt="Captura del proyecto">
-   <img src="" alt="Captura del proyecto">
+   <img src="" alt="Screenshot">
+   <img src="" alt="Screenshot">
+   <img src="" alt="Screenshot">
 </p>
 
-## Autor ✒️
+## Author ✒️
 
-**TU NOMBRE**
+**YOUR NAME**
 
 <ul>
     <li>
-        <a href="micorreo@midominio.com">micorreo@midominio.com</a>
+        <a href="mymail@mysite.com">mymail@mysite.com</a>
     </li>
     <li>
         <a href="https://www.linkedin.com/in/tu-url-de-linkedin/">LinkedIn</a>
     </li>
     <li>
-        <a href="https://tu-dominio.com/">Porfolio web</a>
+        <a href="https://site.com/">Porfolio</a>
     </li>
 </ul>
 
-## Link del reto (si es público)
+## Challenge link
 
-<a href="">Página de frontendmentor</a>
+<a href="">Link page</a>
 
-## Instalación
+## Instalation
 
-Este proyecto está construido con Vite.
+**This project is built with Vite.**
 
-- Para editarlo ejecuta el comando <b>npm run dev</b>
-- Para construir la versión de producción ejecuta el comando <b>npm run build</b>
-- Para previsualizar la versión final ejecuta el comando <b>npm run preview</b>
+- To edit it, run the command **npm run dev**
+- To build the production version, run the command **npm run build**
+- To preview the final version, run the command **npm run preview**

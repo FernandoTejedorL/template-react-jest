@@ -17,5 +17,4 @@ const StyledButton = styled.button`
 	}
 `;
 
-
 export { StyledButton };
